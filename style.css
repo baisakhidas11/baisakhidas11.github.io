@@ -724,6 +724,9 @@ footer span a:hover {
   .home .max-width .socials a {
     padding: 10px;
   }
+  .ocean{
+    width:100vw;
+  }
 }
 .socials {
   padding: 10px;
